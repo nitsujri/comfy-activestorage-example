@@ -1,3 +1,7 @@
+# Branch 'Fixed'
+
+This branch shows the WYISWYG working using Tongboy's branch, see `Gemfile`.
+
 # Overview
 
 Blank project as example of ActiveStorage infinite loop when attempting to upload a file via WYISWYG.

@@ -22,7 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem "comfortable_mexican_sofa"
+gem "comfortable_mexican_sofa", github: 'Tongboy/comfortable-mexican-sofa', ref: '45cfb0cddb2a040a4f091030d51b73e7cb20e842'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
